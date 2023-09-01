@@ -62,9 +62,9 @@ extra functionality is required to make sure one can only burn tokens they own
 
 ## Authors
 vyy
-with assistance from metaChris
+with assistance from metaChris @metacraftersio
 
 
 ## License
 
-This project is licensed under the MIT licence
+This project is licensed under the MIT licence-see the LICENSE.md file for details
